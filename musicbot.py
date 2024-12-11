@@ -153,3 +153,6 @@ async def on_ready():
 
 # .env 파일에서 토큰 로드
 bot.run(os.getenv('DISCORD_TOKEN'))
+
+
+# 커밋 테스트
